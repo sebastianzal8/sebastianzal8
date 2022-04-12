@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianzal8
-- 👀 I’m interested in game development, specially pixelart 
+- 👀 I’m interested in data science and blockchain 
 - 🌱 I’m currently learning systems engineering 
 - 💞️ I’m looking to collaborate with you UwU
 - 📫 How to reach me ...
