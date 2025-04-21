@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sebastianzal8
-- 👀 I’m interested in data science and blockchain 
-- 🌱 I’m currently learning systems engineering 
-- 💞️ I’m looking to collaborate with you UwU
-- 📫 How to reach me ...
+### 🌸 Hi hi~ I’m @sebastianzal8! 💻✨
 
-<!---
-sebastianzal8/sebastianzal8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 Currently exploring the magical world of **AI engineering** & **data science**
+- 🌍 Passionate about using tech to support the **UN Sustainable Development Goals (SDGs)** — especially in climate action, education & clean energy ♻️⚡📚
+- 🎓 Systems Engineer learning Python, machine learning & deep learning (with help from Google Colab + Kaggle senpai~)
+- 🤝 Looking to collaborate on meaningful, beginner-friendly AI projects that make the world a little better 💞 Let’s grow together!
+- 📫 Let’s connect! [LinkedIn](https://www.linkedin.com/in/sebastian-salazar-g/) 💌
+
+> “Code with kindness, model with meaning, deploy with purpose.” 🌱💫
