@@ -1,9 +1,9 @@
-### 🌸 Hi hi~ I’m @sebastianzal8! 💻✨
+### 👋 Hiii, I’m @sebastianzal8!
 
-- 🧠 Currently exploring the magical world of **AI engineering** & **data science**
-- 🌍 Passionate about using tech to support the **UN Sustainable Development Goals (SDGs)** — especially in climate action, education & clean energy ♻️⚡📚
-- 🎓 Systems Engineer learning Python, machine learning & deep learning (with help from Google Colab + Kaggle senpai~)
-- 🤝 Looking to collaborate on meaningful, beginner-friendly AI projects that make the world a little better 💞 Let’s grow together!
+- 🤖 I’m getting into **AI engineering** and **data science** (Colab is my bestie rn)
+- 🧑‍💻 Systems Engineer learning how to make smart machines do smart things
+- 📊 Exploring datasets, building models, and slowly making sense of the AI universe
+- 💞️ I’m looking to collaborate with you~ UwU
 - 📫 Let’s connect! [LinkedIn](https://www.linkedin.com/in/sebastian-salazar-g/) 💌
 
-> “Code with kindness, model with meaning, deploy with purpose.” 🌱💫
+> “The wise adapt themselves to circumstances, as water molds itself to the pitcher.” – Confucius
